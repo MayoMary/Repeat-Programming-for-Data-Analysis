@@ -1,2 +1,4 @@
 # Repeat-Programming-for-Data-Analysis
-Repeat Project 2019 for Semester 2
+This jupyter notebook contains a detailed description of pandas and its usage.
+
+to be continued
